@@ -1,6 +1,17 @@
-# Tayhuang OS
+# English Version
 
-> There is a person called Pangu. He borned in Tayhuang.
+# 英文版
+
+<div align="center">
+<a href="#">
+<h1><img src="TayhuangOS.svg" alt="Logo" width="180" height="180"></h1>
+</a>
+
+### Tayhuang OS
+
+</div>
+
+> There was a person called Pangu. He borned in Tayhuang.
 
 It's a personal ONLY-FOR-LEARN OS.
 
@@ -14,9 +25,22 @@ There's my QQ number: 2715626245
 
 Or you can send an email to me, my email address is: song_of_the_fly@163.com
 
+
 ---
 
-# 太荒 OS
+# Chinese Version
+
+# 中文版
+
+
+<div align="center">
+<a href="#">
+<h1><img src="TayhuangOS.svg" alt="Logo" width="180" height="180"></h1>
+</a>
+
+### 太荒 OS
+
+</div>
 
 > 粤自盘古，生于太荒。
 
